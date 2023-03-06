@@ -347,7 +347,7 @@ background-color:#013399;
     justify-content: space-between;
     position: fixed;
     top:0; left:0; right:0;
-    padding:0rem 9%;
+   
     z-index: 1000;
 
     background: #fff;
