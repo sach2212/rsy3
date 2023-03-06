@@ -1154,7 +1154,7 @@ background-color:#013399;
 @media (max-width:991px){
 
     html{
-        font-size: 55%;
+        font-size: 50%;
     }
 
     .homess .box .content{
@@ -1209,7 +1209,9 @@ background-color:#013399;
 
 @media (max-width:768px){
 
-
+ html{
+            font-size: 45%;
+        }
 
     .homess .box .content p {
 
@@ -1325,7 +1327,9 @@ background-color:#013399;
 
    
 
-
+ html{
+            font-size: 40%;
+        }
 
 
     .homess .box .content p {
