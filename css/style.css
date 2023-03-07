@@ -1077,7 +1077,7 @@ background-color:#013399;
     background-repeat: no-repeat;
     background-position: top;
 
-  ` width:100vw;
+     width:100vw;
 
 }
 
@@ -1148,7 +1148,7 @@ background-color:#013399;
 }
     .services .box-container .box p{
 
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color:var(--black);
     text-align: center;
     
@@ -1156,7 +1156,7 @@ background-color:#013399;
 }
     
     .services .box-container .box h5{
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     
     
 }
@@ -1484,7 +1484,7 @@ margin:  0 3rem;
 
         
        width: 70%;
-        margin-left: 11rem;
+       
     }
     
 
