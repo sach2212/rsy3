@@ -392,18 +392,6 @@ background-color:#013399;
     display: none;
 }
 
-.login-form-container{
-    position: fixed;
-    top:-105%; left:0;
-    height:100%;
-    width:100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background:rgba(255,255,255,.9);
-    z-index: 10000;
-}
-
 
 .callog{
     display: none;
@@ -428,16 +416,6 @@ background-color:#013399;
     margin:.5rem 0;
 }
 
-.login-form-container form .box{
-    margin:.7rem 0;
-    width: 100%;
-    font-size: 1.6rem;
-    color:var(--black);
-    text-transform: none;
-    border:var(--border);
-    padding:1rem 1.2rem;
-    border-radius: .5rem;
-}
 
 .login-form-container form p{
     padding:1rem 0;
