@@ -1099,7 +1099,7 @@ background-color:#013399;
     background-repeat: no-repeat;
     background-position: top;
 
-  `width:100vw
+  ` width:100vw;
 
 }
 
@@ -1107,6 +1107,7 @@ background-color:#013399;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
     gap:1.5rem;
+    display:wrap;
 }
 
 .footer .box-container .box h3{
