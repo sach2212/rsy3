@@ -1157,6 +1157,25 @@ background-color:#013399;
         font-size: 50%;
     }
     
+    .footer .box-container .box h3{
+    font-size: 2rem;
+
+}
+    
+    .footer .box-container .box a{
+
+    font-size: 1.2rem;
+ 
+}
+    .services .box-container .box p{
+
+    font-size: 1.4rem;
+    color:var(--black);
+    text-align: center;
+    
+    
+}
+    
     .services .box-container .box h5{
     font-size: 1.4rem;
     
@@ -1219,6 +1238,26 @@ background-color:#013399;
             font-size: 45%;
         }
 
+    
+        .footer .box-container .box h3{
+    font-size: 1.7rem;
+
+}
+    
+    .footer .box-container .box a{
+
+    font-size: 1rem;
+ 
+}
+    
+    .services .box-container .box p{
+
+    font-size: 1rem;
+    color:var(--black);
+    text-align: center;
+    
+    
+}
     
         .services .box-container .box h5{
     font-size: 1.2rem;
